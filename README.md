@@ -27,6 +27,4 @@ Both structures have the same total number of neurons for fair comparison. Exper
 
 No additional installation or setup is required.
 
-## Contact
 
-For questions or suggestions, contact me at [hazemalsagheer0012@gmail.com](mailto:hazemalsagheer0012@gmail.com).
